@@ -1,12 +1,12 @@
 [submodule "mod-ui"]
 	path = mod-ui
-	url = git@github.com:sejerpz/mod-ui.git
-	branch = starless
+	url = git@github.com:AndrewCapon/mod-ui.git
+	branch = wip/multiple_controllers_17
 [submodule "mod-dwarf-controller"]
 	path = mod-dwarf-controller
 	url = git@github.com:sejerpz/mod-dwarf-controller
 	branch = starless
 [submodule "mod-host"]
 	path = mod-host
-	url = git@github.com:sejerpz/mod-host.git
-	branch = starless
+	url = git@github.com:AndrewCapon/mod-host.git
+	branch = wip/multiple_controllers_17
