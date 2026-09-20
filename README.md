@@ -1,26 +1,23 @@
 # About this MOD Dwarf Custom Image
 
-I appreciate the MOD Dwarf for its versatility and endless configurability.  
-However, some features are still missing.  
+This is basically the wonderful Starless from https://forum.mod.audio/t/starless-by-alabs-development/12853
 
-Thanks to MOD Audio, most of the software stack is open source.  
-This creates an opportunity to extend the system and address these gaps.  
+The ability to have multiple controllers has been added and a few MIDI bits and bobs.
+
+The idea is for some brave souls to test this before it is merged into Starless.
 
 ## Improvements in this image
 
 This custom image introduces the following enhancements:
 
-- **Port grouping** added lv2 port grouping extension to mod-ui host
-- **New performance view**  
-- **Plugin labeling**  
-- **Extended control** over which parameters are included in snapshots  
-- **On-device editing** of pedalboard parameters directly from the Dwarf
-
-  and many other, read the wiki for the complete list
+- **Multiple Controllers** You can now map HMI, CC, CV and MIDI at the same time to a control.
+- **Midi control of lists** You can now change lists and snapshots from MIDI.
+- **Toggle and Momentary MIDI** Midi buttons/switches now supported.
+- **MIDI Tap Tempo** Tap Tempo from MIDI buttons/switches.
 
 ## Documentation
 
-For more details and to know how to use the new the features included read the [wiki](https://github.com/sejerpz/alabs-mod-custom-images/wiki)
+For more details and to know how to use Starless read the [wiki](https://github.com/sejerpz/alabs-mod-custom-images/wiki)
 
 # How to Install the MOD Dwarf aLabs image
 
